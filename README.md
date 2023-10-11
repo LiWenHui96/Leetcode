@@ -1,2 +1,3 @@
-# Leetcode
-Leetcode 每日一题
+# LeetCode
+
+LeetCode 每日一题
